@@ -1,9 +1,9 @@
-###Projeto - Landing Page - Reencontrow
+# Projeto - Landing Page - Reencontrow
 
 
-O que é uma Landing Page?
+O que é uma Landing Page? <br>
 Landing Pages, ou páginas de destino, são páginas craidas com o objetivo de apresentar uma oferta a usuários e converter visitantes em leads.
-Essas páginas virtuais estão vinculadas a uma empresa, mas não são páginas do site, podendo inclusive, apresentar um layout completamente diferente do institucional.
+Essas páginas virtuais estão vinculadas a uma empresa, mas não são páginas do site, podendo inclusive, apresentar um layout completamente diferente do institucional. <br>
     Geralmente, as empresas criam estratégias de marketing de ação para direcionar usuários para as landing pages quando desejam:
 
     - Apresentar um produto;
@@ -11,7 +11,8 @@ Essas páginas virtuais estão vinculadas a uma empresa, mas não são páginas 
     - Oferecer um conteúdo relevante;
     - Converter visitantes em leads.
 
-##Saiba mais em:
+## Saiba mais em:
+
 [Digitalandia](https://digilandia.io/transformacao-digital/landing-page/)
 
 # Sobre o Projeto:
