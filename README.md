@@ -13,7 +13,7 @@ Essas páginas virtuais estão vinculadas a uma empresa, mas não são páginas 
 
 ## Saiba mais em:
 
-[Digitalandia](https://digilandia.io/transformacao-digital/landing-page/)
+[Digilandia](https://digilandia.io/transformacao-digital/landing-page/)
 
 # Sobre o Projeto:
 
